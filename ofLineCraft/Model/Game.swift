@@ -4,7 +4,7 @@
 //
 //  Created by Иван Алмазов on 17.03.2021.
 //
-// MVVM
+// MVVM - Start
 import UIKit
 let key = "Dimon1"
 class Game {
